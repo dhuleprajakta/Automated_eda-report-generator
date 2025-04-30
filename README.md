@@ -21,7 +21,7 @@ Just upload your CSV file and instantly explore key insights, distributions, cor
 
 ## 🖼️ App Preview
 
-![App Screenshot](images/screenshot1.png)
+![App Screenshot](https://github.com/dhuleprajakta/Automated_eda-report-generator/blob/main/Automated_EDA.png)
 
 
 ![App Screenshot](https://github.com/dhuleprajakta/Automated_eda-report-generator/blob/main/Automated_eda_report.png)
